@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://street-light-792f8-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">152588523790</string>
+    <string name="google_api_key" translatable="false">AIzaSyAumGz-ndWyLjS4rlPcgTt1N1p0wvMR5CM</string>
+    <string name="google_app_id" translatable="false">1:152588523790:android:1b850a17e280ece91a1f5f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAumGz-ndWyLjS4rlPcgTt1N1p0wvMR5CM</string>
+    <string name="google_storage_bucket" translatable="false">street-light-792f8.appspot.com</string>
+    <string name="project_id" translatable="false">street-light-792f8</string>
+</resources>
